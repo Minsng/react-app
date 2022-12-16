@@ -1,18 +1,18 @@
 
 [
-{"Name":"Alfreds Futterkiste","City":"Berlin","Country":"Germany"},
-{"Name":"Ana Trujillo Emparedados y helados","City":"México D.F.","Country":"Mexico"},
-{"Name":"Antonio Moreno Taquería","City":"México D.F.","Country":"Mexico"},
-{"Name":"Around the Horn","City":"London","Country":"UK"},
-{"Name":"B's Beverages","City":"London","Country":"UK"},
-{"Name":"Berglunds snabbköp","City":"Luleå","Country":"Sweden"},
-{"Name":"Blauer See Delikatessen","City":"Mannheim","Country":"Germany"},
-{"Name":"Blondel père et fils","City":"Strasbourg","Country":"France"},
-{"Name":"Bólido Comidas preparadas","City":"Madrid","Country":"Spain"},
-{"Name":"Bon app'","City":"Marseille","Country":"France"},
-{"Name":"Bottom-Dollar Marketse","City":"Tsawassen","Country":"Canada"},
-{"Name":"Cactus Comidas para llevar","City":"Buenos Aires","Country":"Argentina"},
-{"Name":"Centro comercial Moctezuma","City":"México D.F.","Country":"Mexico"},
-{"Name":"Chop-suey Chinese","City":"Bern","Country":"Switzerland"},
-{"Name":"Comércio Mineiro","City":"São Paulo","Country":"Brazil"}
+{"Name":"Alfreds Futterkiste","City":"Berlin","Country":"Germany","src":"Germany.jpg"},
+{"Name":"Ana Trujillo Emparedados y helados","City":"México D.F.","Country":"Mexico","src":"Mexico.jpg"},
+{"Name":"Antonio Moreno Taquería","City":"México D.F.","Country":"Mexico","src":"Mexico.jpg"},
+{"Name":"Around the Horn","City":"London","Country":"UK","src":"UK.jpg"},
+{"Name":"B's Beverages","City":"London","Country":"UK","src":"UK.jpg"},
+{"Name":"Berglunds snabbköp","City":"Luleå","Country":"Sweden","src":"Sweden.jpg"},
+{"Name":"Blauer See Delikatessen","City":"Mannheim","Country":"Germany","src":"Germany.jpg"},
+{"Name":"Blondel père et fils","City":"Strasbourg","Country":"France","src":"France.jpg"},
+{"Name":"Bólido Comidas preparadas","City":"Madrid","Country":"Spain","src":"Spain.jpg"},
+{"Name":"Bon app'","City":"Marseille","Country":"France","src":"France.jpg"},
+{"Name":"Bottom-Dollar Marketse","City":"Tsawassen","Country":"Canada","src":"Canada.jpg"},
+{"Name":"Cactus Comidas para llevar","City":"Buenos Aires","Country":"Argentina","src":"Argentina.jpg"},
+{"Name":"Centro comercial Moctezuma","City":"México D.F.","Country":"Mexico","src":"Mexico.jpg"},
+{"Name":"Chop-suey Chinese","City":"Bern","Country":"Switzerland","src":"Switzerland.jpg"},
+{"Name":"Comércio Mineiro","City":"São Paulo","Country":"Brazil","src":"Brazil.jpg"}
 ]

@@ -5,8 +5,9 @@ import {
   Route,
   Link
 } from 'react-router-dom';
-import Header from './components/header.js';
-import Content from './components/content.js';
+import Header from './components/Header.js';
+import Content from './components/Content.js';
+import Visual from './components/Visual.js';
 import './App.css';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
     <Router>
       <div className="App">
         <Header />
+        <Visual />
         <Content />
       </div>
     </Router>

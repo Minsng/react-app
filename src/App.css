@@ -1,3 +1,19 @@
 .App {
   text-align: center;
 }
+
+.box{height: 400px; margin-bottom: 20px;}
+
+.swiper-container {
+  height: 100%;
+  width: 100%;
+}
+
+.swiper-container .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    background: pink;
+}
